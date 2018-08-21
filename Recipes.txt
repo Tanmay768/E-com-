@@ -5,3 +5,6 @@ Burger!
 Noodles!
 Desserts!
 Chicken Fry!
+
+PiZzaa!
+Beans!
